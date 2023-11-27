@@ -4,23 +4,22 @@ body {
 	  width: 85%;
 	  margin: 1em auto 0;
 	  font: 90%/1.5 Arial, Helvetica, sans-serif;
-	  background-image: linear-gradient(to top, lightblue, white);
+	  background-image: linear-gradient(to top, pink, white);
   }
   h1 {
-	  font-family: Verdana, Geneva, sans-serif;
-	  font-size: 2.8em;
+	  font-family: Bebas Neue;
+	  font-size: 4em;
 	  font-weight: bold;
-	  color: #0D1F59;
+	  color: rgb(247, 103, 156);
 	  text-align: center;
   }
   button {
 	font-weight: bold;
 	text-transform: uppercase;
-	border: solid #175282 3px ;
-	color: #175282;
-	background-color: lightblue;
-	padding: 7px;
 	border: none;
+	color: rgb(247, 103, 156);
+	background-color: pink;
+	padding: 7px;
 	border-radius: 5px;
 	margin: 3px;
 }
